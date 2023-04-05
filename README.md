@@ -5,7 +5,7 @@ Open-World Video Instance Segmentation
 
 <hr> 
 
-## Our Open-World Splits
+## Proposed Open-World YoutubeVis Dataset splits
 
 
 | Split                            | Task-1 Train  | Task-2 Train | Test |
